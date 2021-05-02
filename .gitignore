@@ -4,9 +4,6 @@
 ### script.py
 /build/script.py
 
-### resources
-package/resources/*
-
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
